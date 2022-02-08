@@ -5,6 +5,6 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #fff;
-    color: #34a534;
+    background-color: black;
+    color: pink;
 }
