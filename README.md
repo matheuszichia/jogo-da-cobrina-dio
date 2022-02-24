@@ -1,1 +1,1 @@
-# jogo-da-cobrina-dio
+# jogo-da-cobrinha-dio
